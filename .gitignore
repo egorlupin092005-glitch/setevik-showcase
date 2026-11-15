@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+.git/
+.vercel/
+.openai/
+.env
+.env.*
+!.env.example
+.venv/
+.tools/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+.runtime/
+logs/
